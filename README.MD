@@ -1,3 +1,9 @@
+## wip
+
+- compiled trackpad information (why did I crtl+h to touchpad....) looking to see what I could swap into a t14s gen2. Ordered 5M11G56210, not yet confirmed to work, but I do not see why it would not.
+
+---
+
 ### **Lenovo ThinkPad Touchpad FRU Reference (CS21–CS23)**
 | FRU                            | Family       | Lenovo Descriptor                                                   | Vendor                     | Material (Actual)                                            | Finish Color  | Controller    | Compatible Systems                           |
 | ------------------------------ | ------------ | ------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------ | ------------- | ------------- | -------------------------------------------- |
