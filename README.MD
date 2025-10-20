@@ -4,6 +4,8 @@
 - I think 5M11G56212 would be more ideal than 5M11G56210, but all of the glass laminated ("Glass Feel") are harder to find and more expensive. 
 - You decide what "true glass" means. Glass Laminate or Full Tempered?
 
+- some wordings may be off. this was a pain in the ass to compile. lots of correcting lots of ctrl+h
+
 ---
 
 ### **Lenovo ThinkPad Touchpad FRU Reference (CS21–CS23)**
