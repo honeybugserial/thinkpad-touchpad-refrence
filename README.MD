@@ -6,6 +6,8 @@
 
 ---
 
+## main meats
+
 - compiled trackpad information (why did I crtl+h to touchpad....) looking to see what I could swap into a t14s gen2. Ordered 5M11G56210, not yet confirmed to work, but I do not see why it would not.
 - I think 5M11G56212 would be more ideal than 5M11G56210, but all of the glass laminated ("Glass Feel") are harder to find and more expensive. 
 - You decide what "true glass" means. Glass Laminate or Full Tempered?
