@@ -2,11 +2,10 @@
 
 ## READ THIS BELOW HERE FIRST
 - I have NOT fully verified any of this information, just compiled what I was able to find from various sources.
+- When this was originally compiled I was trying to find a better touchpad to use in my t14s gen2. Specifically the newer "glass" one(s). Many people seem to mistake the glass laminate for "full glass", the real full glass is a tempered glass layer that is only found on the x1 carbon gen 11 to the best of my knowledge. It is very different from any of the others. 
 - However I can verify from below that a 5M11G56210 will NOT fit a t14s gen 2. I was so concerned about the type and ffc I overlooked the actual physical size...
+- I never ended up swapping anything, shortly after compiling this information I ended up just tossing the whole laptop because it was a hot pile of trash. Don't waste your money on anything Gen 11 intel on lenovo, they are all junk.
 
-### Previous Updaates
-- 5M11G56210 != t14s Gen2
-- Should have checked the physical size.... oop.
 
 ---
 
