@@ -2,7 +2,7 @@
 
 ## READ THIS
 - I have NOT fully verified any of this information, just compiled what I was able to find from various sources.
-- However I can verify from below that a 5M11G56210 will NOT fit a t14s gen 3. I was so concerned about the type and ffc I overlooked the actual physical size...
+- However I can verify from below that a 5M11G56210 will NOT fit a t14s gen 2. I was so concerned about the type and ffc I overlooked the actual physical size...
 
 ## Updaates
 - 5M11G56210 != t14s Gen2
