@@ -98,6 +98,6 @@ SM10P36008 / 01LX660 → Full tempered glass (thick, non-Touchpad).
 ### **Cross-Compatibility**
 | Donor FRU                    | Fits In                                          | Result                                |
 | ---------------------------- | ----------------------------------------------   |  ------------------------------------ |
-| 5M11G56210 (CS23 X1 Gen 9)   | Yes T14s Gen 2 / Gen 3                           | Full fit + function (same FFC pinout) |
+| 5M11G56210 (CS23 X1 Gen 9)   | Yes T14s Gen 2 / Gen 3                           | ~~Full fit + function (same FFC pinout)~~ [Update: incorrect physical size] |
 | 5M11G56222 (CS22 T14s Gen 4) | Yes-ish T14s Gen 2 / 3 with minor bracket adjust | Slight bracket mismatch possible      |
 | SM10P36008 (glass)           | No T14s Gen 2                                    | Too thick / different mount points    |
