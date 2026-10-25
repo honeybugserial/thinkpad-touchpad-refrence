@@ -1,18 +1,18 @@
 # Thinkpad Touchpad / Trackpad model informations
 
-## READ THIS
+## READ THIS BELOW HERE FIRST
 - I have NOT fully verified any of this information, just compiled what I was able to find from various sources.
 - However I can verify from below that a 5M11G56210 will NOT fit a t14s gen 2. I was so concerned about the type and ffc I overlooked the actual physical size...
 
-## Updaates
+### Previous Updaates
 - 5M11G56210 != t14s Gen2
 - Should have checked the physical size.... oop.
 
 ---
 
-## main meats
+## Model References and Types and Etc
 
-- compiled trackpad information (why did I crtl+h to touchpad....) looking to see what I could swap into a t14s gen2. Ordered 5M11G56210, not yet confirmed to work, but I do not see why it would not.
+- Compiled trackpad information (why did I crtl+h to touchpad....) looking to see what I could swap into a t14s gen2. I ordered a 5M11G56210, not yet confirmed to work, but I do not see why it would not. [Wrong]
 - I think 5M11G56212 would be more ideal than 5M11G56210, but all of the glass laminated ("Glass Feel") are harder to find and more expensive. 
 - You decide what "true glass" means. Glass Laminate or Full Tempered?
 
